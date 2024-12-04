@@ -1,0 +1,49 @@
+ body {
+    font-family: 'Times New Roman', Times, serif;;
+h2 {
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 30px;
+    text-align: center;
+}
+.navbar {
+    background-color: black;
+}
+.navbar-brand img {
+    width: 80px;
+    height: auto;
+}
+.footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.footer a {
+    color: lightblue;
+    text-decoration: none;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+.card {
+    margin: 15px;
+    padding: 10px; 
+    border-radius: 30px;
+    background-color: lightcoral;
+}
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: red;
+}
+h5 {
+    font-size: 26px;
+    color: red;
+}
+p {
+    font-size: 19px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.902);
+}
+}
